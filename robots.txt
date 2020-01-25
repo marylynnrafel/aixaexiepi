@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eikoosiov.czerwinski.it/sitemap.xml
